@@ -17,6 +17,6 @@
     "angular": "~1.4",
 	"jquery": "~2",
 	"lodash": "~3",
-    "offline": "https://github.com/HubSpot/offline.git"
+    "offline": "https://github.com/HubSpot/offline.git#3b3dbf6cf873e124a05b71223124a44dae4182da"
   }
 }
